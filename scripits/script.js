@@ -2,7 +2,7 @@
 // Frango - 150gr por pessoa + de 6 horas - 300gr
 // Linguica - 150gr por pessoa + de 6 horas - 300gr
 // Pao de alho - 150gr por pessoa + de 6 horas - 300gr
-// Crveja - 1200 ml por pessoa que bebem + 6 horas - 2000 ml
+// Cerveja - 1200 ml por pessoa que bebem + 6 horas - 2000 ml
 // Refrigerante/agua - 1000 ml por pessoa + 6 horas 1500m
 // criancas valem por 0,5
 
