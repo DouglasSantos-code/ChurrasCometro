@@ -38,7 +38,7 @@ function calcular() {
                                 </div>`
         resultado.innerHTML += `<div class="result-block"><img src="./images/pao.png"/><p>${qdtTotalPaoAlho / 1000} Kg de Pao de Alho</p>
                                 </div>`
-        resultado.innerHTML += `<div class="result-block"><img src="./images/cerveja.png"/><p>${Math.ceil(qdtTotalCerveja / 355)} Latas de    Cerveja</p>
+        resultado.innerHTML += `<div class="result-block"><img src="./images/cerveja.png"/><p>${Math.ceil(qdtTotalCerveja / 215)} Latas de    Cerveja</p>
                                 </div>`
         resultado.innerHTML += `<div class="result-block"><img src="./images/refrigerante.png"/><p>${Math.ceil(qdtTotalBebidas / 2000)} Garrafas de Bebidas 2L</p>
                                 </div>`
@@ -80,9 +80,9 @@ function paoalhoPP(duracao) {
 
 function cervejaPP(duracao) {
     if (duracao >= 6) {
-        return 2000;
+        return 2300;
     } else {
-        return 1200;
+        return 1500;
     }
 }
 
