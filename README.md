@@ -28,7 +28,7 @@ Programa para **calcular** a quantidade de **comidas** e **bebidas** necessária
 - **Frango** = 150gr por pessoa + de 6 horas = 300gr
 - **Linguiça** = 150gr por pessoa + de 6 horas = 300gr
 - **Pao de alho** = 150gr por pessoa + de 6 horas = 300gr
-- **Cerveja** = 1200 ml por pessoa que bebem + 6 horas = 2000 ml
+- **Cerveja** = 1500 ml por pessoa que bebem + 6 horas = 2300 ml
 - **Refrigerante/agua** = 1000 ml por pessoa + 6 horas = 1500ml
 - **criancas** valem por 0,5
 
