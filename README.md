@@ -24,10 +24,10 @@
 
 Programa para **calcular** a quantidade de **comidas** e **bebidas** necessária para o seu churrasco, com base nas seguintes informações:
 
-- **Carne** = 250gr por pessoa  + de 6 horas = 400gr
-- **Frango** = 150gr por pessoa + de 6 horas = 300gr
-- **Linguiça** = 150gr por pessoa + de 6 horas = 300gr
-- **Pao de alho** = 150gr por pessoa + de 6 horas = 300gr
+- **Carne** = 350gr por pessoa  + de 6 horas = 500gr
+- **Frango** = 200gr por pessoa + de 6 horas = 400gr
+- **Linguiça** = 200gr por pessoa + de 6 horas = 400gr
+- **Pao de alho** = 200gr por pessoa + de 6 horas = 350gr
 - **Cerveja** = 1500 ml por pessoa que bebem + 6 horas = 2300 ml
 - **Refrigerante/agua** = 1000 ml por pessoa + 6 horas = 1500ml
 - **criancas** valem por 0,5

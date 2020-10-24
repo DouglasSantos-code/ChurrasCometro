@@ -1,11 +1,3 @@
-// Carne - 250gr por pessoa  + de 6 horas - 400gr
-// Frango - 150gr por pessoa + de 6 horas - 300gr
-// Linguica - 150gr por pessoa + de 6 horas - 300gr
-// Pao de alho - 150gr por pessoa + de 6 horas - 300gr
-// Cerveja - 1200 ml por pessoa que bebem + 6 horas - 2000 ml
-// Refrigerante/agua - 1000 ml por pessoa + 6 horas 1500m
-// criancas valem por 0,5
-
 let inputAdultos = document.getElementById("adultos");
 let inputCriancas = document.getElementById("criancas");
 let inputDuracao = document.getElementById("duracao");
@@ -48,33 +40,33 @@ function calcular() {
 
 function carnePP(duracao) {
     if (duracao >= 6) {
-        return 400;
+        return 500;
     } else {
-        return 250;
+        return 350;
     }
 }
 
 function frangoPP(duracao) {
     if (duracao >= 6) {
-        return 300;
+        return 400;
     } else {
-        return 150;
+        return 200;
     }
 }
 
 function linguicaPP(duracao) {
     if (duracao >= 6) {
-        return 300;
+        return 400;
     } else {
-        return 150;
+        return 200;
     }
 }
 
 function paoalhoPP(duracao) {
     if (duracao >= 6) {
-        return 300;
+        return 350;
     } else {
-        return 150;
+        return 200;
     }
 }
 
